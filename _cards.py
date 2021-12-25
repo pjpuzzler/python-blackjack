@@ -1,0 +1,16 @@
+from _card import Card
+
+STOP_CARD = Card(0)
+ACE = Card(1)
+TWO = Card(2)
+THREE = Card(3)
+FOUR = Card(4)
+FIVE = Card(5)
+SIX = Card(6)
+SEVEN = Card(7)
+EIGHT = Card(8)
+NINE = Card(9)
+TEN = Card(10)
+JACK = Card(11)
+QUEEN = Card(12)
+KING = Card(13)

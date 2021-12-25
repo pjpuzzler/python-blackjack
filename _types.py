@@ -1,0 +1,1 @@
+Rank = Suit = int
